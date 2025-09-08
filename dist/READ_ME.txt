@@ -1,5 +1,4 @@
 This is a final project for my CSC1351 class (from freshman year).
-All of the BasicGraphics code is code made from my professor which we were assigned to use like a game engine. The code in the src/finalproject folder is the code that I made myself.
 
 Controls:
 WASD: move the character around
@@ -25,4 +24,3 @@ When the ability bars turn golden, you can use them.
 * Arnament haki: turns golden after 50 XP; Observation haki: turns golden after 100 xp; Gear 2 & 3: turns golden when bar is fully filled
 
 
-I did all of the pixel art.
