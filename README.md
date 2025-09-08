@@ -46,8 +46,10 @@ When the ability bars turn golden, you can use them.
   * Gear 2 & 3: usable when full
 * Arnament Haki and Observation Haki don't need max XP to be usable
 
-## Screenshot
+## Art
 
-![Game Screenshot]
+![Game Screenshot](images/screenshot.png)
+
+* All of the pixel art is done by me, located in the ```images``` folder
 
 
