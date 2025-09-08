@@ -12,7 +12,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/bengutow1/2024_game_finalproj.git
 ```
-Step into the folder:
+Step into the ```dist/``` folder in the newly cloned directory:
 ```bash
 cd 2024_game_finalproj/dist
 ```
