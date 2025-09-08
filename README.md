@@ -10,11 +10,11 @@ This is a game I made for a final project during my Freshman year of college. It
 
 Clone the repository:
 ```bash
-git clone https://github.com/bengutow1/game_final_project.git
+git clone https://github.com/bengutow1/2024_game_finalproj.git
 ```
 Step into the folder:
 ```bash
-cd game-final-project/dist
+cd 2024_game_finalproj/dist
 ```
 Run the jar file using:
 ```bash
